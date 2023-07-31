@@ -32,7 +32,7 @@
 
 
 .background-image {
-  background-image: url("/images/paws2.jpg");
+  background-image: url("paws2.jpg");
   background-size: contain;
 }
 
